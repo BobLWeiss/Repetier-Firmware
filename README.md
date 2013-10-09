@@ -1,17 +1,12 @@
 # Repetier-Firmware - the fast and user friendly firmware
 by repetier  (repetierdev@gmail.com)
 
-
-Upafted by Bob Weiss (bweiss0168@gmail.com)
----------------------------------------------------------------------------
-- Configured for Delta style 3d printer. I am using Kossel
-- version but configuration is basically the same for any delta
-- style. I have added numerous updates to orginal version
-- 		
--		* Z axis probe detection using accelerometer
--		* 
--
-----------------------------------------------------------------------------
+Upated by Bob Weiss (bweiss0168@gmail.com)
+Configured for Delta style 3d printer. I am using Kossel
+version but configuration is basically the same for any delta
+style. I have added numerous updates to orginal version
+		
+- Z axis probe detection using accelerometer
 
 For documentation please visit [http://www.repetier.com/documentation/repetier-firmware/](http://www.repetier.com/documentation/repetier-firmware/)
 
@@ -31,5 +26,3 @@ Version 0.81  03.02.2013
 
 For documentation and installation please visit 
 [http://www.repetier.com/documentation/repetier-firmware/](http://www.repetier.com/documentation/repetier-firmware/).
-
-

@@ -1,7 +1,7 @@
 # Repetier-Firmware - the fast and user friendly firmware
 by repetier  (repetierdev@gmail.com)
 
-Upated by Bob Weiss (bweiss0168@gmail.com)
+Updated by Bob Weiss (bweiss0168@gmail.com)
 Configured for Delta style 3d printer. I am using Kossel
 version but configuration is basically the same for any delta
 style. I have added numerous updates to orginal version

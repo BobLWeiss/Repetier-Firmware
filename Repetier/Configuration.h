@@ -685,9 +685,9 @@ on this endstop.
 // For delta robot Z_MAX_LENGTH is maximum travel of the towers and should be set to the distance between the hotend
 // and the platform when the printer is at its home position.
 // If EEPROM is enabled these values will be overidden with the values in the EEPROM
-#define X_MAX_LENGTH 160.7
-#define Y_MAX_LENGTH 160.7
-#define Z_MAX_LENGTH 160.7 // Set this to your appx maximum Z height from home position to table measred from the nozzle tip.  You can fine-tune this with either the endstop screws or eeprom settings in Repetier Host
+#define X_MAX_LENGTH 161
+#define Y_MAX_LENGTH 161
+#define Z_MAX_LENGTH 161 // Set this to your appx maximum Z height from home position to table measred from the nozzle tip.  You can fine-tune this with either the endstop screws or eeprom settings in Repetier Host
 
 // Coordinates for the minimum axis. Can also be negative if you want to have the bed start at 0 and the printer can go to the left side
 // of the bed. Maximum coordinate is given by adding the above X_MAX_LENGTH values.

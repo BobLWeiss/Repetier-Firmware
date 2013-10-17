@@ -77,12 +77,22 @@
           <ListValues>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino</Value>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel\utility</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SPI</Value>
@@ -165,12 +175,22 @@
           <ListValues>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino</Value>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel\utility</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SPI</Value>
@@ -332,12 +352,22 @@ location.sketchbook=C:\Users\rweis\Documents\Arduino\
           <ListValues>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino</Value>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel\utility</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SPI</Value>
@@ -420,12 +450,22 @@ location.sketchbook=C:\Users\rweis\Documents\Arduino\
           <ListValues>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino</Value>
             <Value>C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\Adafruit_NeoPixel\utility</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345</Value>
-            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Adxl345\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ADXL345_2\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\ArduCAM_Touch\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\Gameduino\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\LiquidCrystal\utility</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855</Value>
+            <Value>C:\Users\rweis\Documents\Arduino\libraries\MAX31855\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SdFat\utility</Value>
             <Value>C:\Users\rweis\Documents\Arduino\libraries\SPI</Value>

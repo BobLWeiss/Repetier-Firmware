@@ -6,4 +6,9 @@ If you have a normal 8 bit Arduino board, use the ArduinoAVR folder to compile.
 If you have a Arduino Due based board, use the ArduinoDUE folder. It contains the
 adjusted HAL files from John Silvia. It requires Arduino 1.5 or higher to compile.
 Upload and connect through the programming port near the power jack.
+
+I am porting the AVR version to chipkit MAX32 board. All HAL files will be updated as
+needed for MAX32 and others will be copied over to both AVR & DUE trees.
+
+
 Status: Beta and work in progress.
